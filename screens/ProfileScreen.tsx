@@ -4,7 +4,7 @@ import { View, Text, StyleSheet, Image, Switch } from 'react-native';
 const ProfileScreen = () => {
   return (
     <View style={styles.container}>
-      <Image source={require('../assets/emily.png')} style={styles.avatar} />
+      <Image source={require('../assets/guy1.png')} style={styles.avatar} />
       <Text style={styles.name}>David Anderson</Text>
       <Text style={styles.email}>andrea@domainname.com</Text>
 
